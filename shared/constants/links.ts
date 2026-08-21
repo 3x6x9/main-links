@@ -1,0 +1,4 @@
+export const LINK_TITLE_MIN_LENGTH = 1;
+export const LINK_TITLE_MAX_LENGTH = 100;
+export const LINK_URL_MAX_LENGTH = 2048;
+export const LINK_DESCRIPTION_MAX_LENGTH = 100;
